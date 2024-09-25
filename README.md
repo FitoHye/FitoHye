@@ -1,6 +1,7 @@
+<!--
+
 ## Hi there 👋
 
-<!--
 **FitoHye/FitoHye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 소개. Introduce.
+
+FitoHye 의 깃 허브 페이지이다.
+
+FitoHye's Github Page
+
+- 메일주소 email adress : whffkalszzzz@gmail.com 
